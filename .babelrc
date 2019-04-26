@@ -1,0 +1,8 @@
+{//presets是转码规则，plugins是设置的babel的插件。
+    "presets": [
+        "env",
+        "react",
+        "stage-0"
+    ],
+    "plugins": []
+}
